@@ -43,39 +43,6 @@ Meu objetivo é conquistar uma oportunidade como **Desenvolvedora Java**, aplica
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
-
-## 📂 Projetos
-
-### 🛠 Sistema de Chamados
-
-Aplicação para gerenciamento de chamados técnicos utilizando Java, Spring Boot e SQL.
-
----
-
-### 💻 Inventário de TI
-
-Sistema para controle de ativos de infraestrutura com cadastro de equipamentos, usuários e histórico de manutenção.
-
----
-
-### 📊 API de Monitoramento
-
-Projeto que integra Java e Python para coleta de métricas de CPU, memória e armazenamento.
-
----
-
-### 💰 Gerenciador Financeiro
-
-Aplicação para controle de receitas, despesas e categorias financeiras.
-
----
-
-### 🐍 Automações em Python
-
-Coleção de scripts para automação de tarefas do dia a dia em ambientes Windows e Linux.
-
----
 
 ## 📖 Atualmente estudando
 
