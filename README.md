@@ -97,8 +97,8 @@ Construir soluções que unam desenvolvimento de software e infraestrutura, apli
 
 ## 📫 Contato
 
-* 💼 LinkedIn: [https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/joyce-costa-a35280328/)
-* 📧 Email: [seuemail@email.com](mailto:joyce.alecosta@gmail.com)
+* 💼 LinkedIn: [(https://www.linkedin.com/in/joyce-costa-a35280328/)
+* 📧 Email: [(mailto:joyce.alecosta@gmail.com)
 
 ---
 
