@@ -1,4 +1,4 @@
-# Olá! Hello World! rs 
+# Olá! Hello, World! rs' 
 
 ### Analista de Infraestrutura | Em transição para Desenvolvimento de Software
 
