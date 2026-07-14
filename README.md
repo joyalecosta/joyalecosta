@@ -10,7 +10,7 @@ Meu objetivo é conquistar uma oportunidade como **Desenvolvedora Java**, aplica
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 🎓 Estudante de Ciências da Computação
 * 💼 Experiência em Infraestrutura e Suporte Corporativo
 * ☕ Focada em Desenvolvimento Java
 * 🐍 Conhecimentos em Python para automações
