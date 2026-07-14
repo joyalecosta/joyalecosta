@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Joy Costa
+# Olá, eu sou a Joy Costa! 
 
 ### Analista de Infraestrutura | Em transição para Desenvolvimento de Software
 
