@@ -2,8 +2,6 @@
 
 Me chamo Joyce, sou profissional de TI com experiência em infraestrutura, suporte corporativo e administração de ambientes Windows e Linux. Atualmente estou direcionando minha carreira para o desenvolvimento de software, estudando Java, Python e boas práticas de engenharia de software.
 
-Meu objetivo é conquistar uma oportunidade como **Desenvolvedora Java**, aplicando minha experiência em infraestrutura para construir aplicações robustas, escaláveis e bem estruturadas.
-
 ---
 
 ## 🚀 Sobre mim
