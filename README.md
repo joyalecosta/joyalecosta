@@ -138,16 +138,4 @@ Busco unir minha experiência em infraestrutura e operações com desenvolviment
 
 📧 Email: [joyce.alecosta@gmail.com](mailto:joyce.alecosta@gmail.com)
 
----
-
-> *"Transformando experiência em infraestrutura em plataformas confiáveis, observáveis e escaláveis."* 🚀
-
-
-## 📫 Contato
-
-* 💼 LinkedIn: https://www.linkedin.com/in/joyce-costa-a35280328
-* 📧 Email: joyce.alecosta@gmail.com
-
----
-
 > *"Transformando experiência em infraestrutura em soluções de software eficientes."* 🚀
