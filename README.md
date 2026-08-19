@@ -6,15 +6,15 @@ Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência
 
 ## 🚀 Sobre Mim
 
-🎓 Estudante de Ciência da Computação
-💼 +7 anos de experiência em Infraestrutura e Suporte Corporativo
-⚙️ Foco em Site Reliability Engineering (SRE) e Observabilidade
-☁️ Estudando AWS, Kubernetes e Arquiteturas Cloud Native
-☕ Desenvolvimento Backend com Java e Spring Boot
-🐍 Python para automação e integração de sistemas
-📊 Experiência com monitoramento, métricas, logs e troubleshooting
-🌱 Aprendizado contínuo em DevOps, Cloud e Engenharia de Software
-
+- 🎓 Estudante de Ciência da Computação
+- 💼 +7 anos de experiência em Infraestrutura e Suporte Corporativo
+- ⚙️ Foco em Site Reliability Engineering (SRE) e Observabilidade
+- ☁️ Estudando AWS, Kubernetes e Arquiteturas Cloud Native
+- ☕ Desenvolvimento Backend com Java e Spring Boot
+- 🐍 Python para automação e integração de sistemas
+- 📊 Experiência com monitoramento, métricas, logs e troubleshooting
+- 🌱 Aprendizado contínuo em DevOps, Cloud e Engenharia de Software
+  
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
