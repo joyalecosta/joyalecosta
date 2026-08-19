@@ -1,46 +1,94 @@
 # Hello, World! rs' 
 
-Me chamo Joyce, sou profissional de TI com experiência em infraestrutura, suporte corporativo e administração de ambientes Windows e Linux. Atualmente estou direcionando minha carreira para o desenvolvimento de software, estudando Java, Python e boas práticas de engenharia de software.
+Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência em **Infraestrutura, Observabilidade, Suporte Corporativo e Administração de Ambientes Windows/Linux**. Atualmente estou direcionando minha carreira para **Site Reliability Engineering (SRE), Cloud Computing e Desenvolvimento de Software**, unindo minha experiência operacional com práticas modernas de engenharia para construir sistemas confiáveis, escaláveis e resilientes.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-* 🎓 Estudante de Ciências da Computação
-* 💼 Experiência em Infraestrutura e Suporte Corporativo
-* ☕ Focada em Desenvolvimento Java
-* 🐍 Conhecimentos em Python para automações
-* 🌱 Aprendendo Spring Boot, APIs REST e Banco de Dados
-* 📚 Sempre estudando e desenvolvendo novos projetos
+🎓 Estudante de Ciência da Computação
+💼 +7 anos de experiência em Infraestrutura e Suporte Corporativo
+⚙️ Foco em Site Reliability Engineering (SRE) e Observabilidade
+☁️ Estudando AWS, Kubernetes e Arquiteturas Cloud Native
+☕ Desenvolvimento Backend com Java e Spring Boot
+🐍 Python para automação e integração de sistemas
+📊 Experiência com monitoramento, métricas, logs e troubleshooting
+🌱 Aprendizado contínuo em DevOps, Cloud e Engenharia de Software
 
 ---
 
-## 💻 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
+### 💻 Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+* Java
+* Python
+* SQL
+* Bash
 
-### Backend
+### ⚙️ Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+* Spring Boot
+* APIs REST
 
-### Banco de Dados
+### ☁️ Cloud & DevOps
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+* AWS
+* Docker
+* Kubernetes
+* Terraform (em aprendizado)
 
-### Ferramentas
+### 📊 Observabilidade
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+* Datadog
+* Grafana
+* Prometheus
+* Zabbix
+* Dynatrace
+* OpenTelemetry
+* Loki
 
+### 🗄️ Banco de Dados
 
-## 📖 Atualmente estudando
+* MySQL
+* PostgreSQL
+* MariaDB
+
+### 🔧 Infraestrutura
+
+* Linux (Ubuntu / Debian)
+* Windows Server
+* Active Directory
+* DNS
+* DHCP
+* VMware
+* Microsoft 365
+* Azure
+
+### 🧰 Ferramentas
+
+* Git
+* GitHub
+* Jira
+* Docker
+
+---
+
+## 📚 Atualmente Estudando
+
+### Site Reliability Engineering (SRE)
+
+* Linux Avançado
+* Cloud Computing (AWS)
+* Kubernetes
+* Observabilidade
+* OpenTelemetry
+* Prometheus & Grafana
+* Gestão de Incidentes
+* SLI, SLO e SLA
+* Automação com Python
+
+### Desenvolvimento Backend
 
 * Java
 * Programação Orientada a Objetos
@@ -51,12 +99,49 @@ Me chamo Joyce, sou profissional de TI com experiência em infraestrutura, supor
 * Docker
 * Clean Code
 * Design Patterns
+* Arquitetura de Software
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Projetos de Aprendizado SRE
 
-Construir soluções que unam desenvolvimento de software e infraestrutura, aplicando boas práticas de programação, automação e arquitetura para criar aplicações confiáveis e escaláveis.
+Atualmente desenvolvendo laboratórios e projetos práticos focados em confiabilidade, observabilidade e plataformas cloud:
+
+📁 **linux-sre-lab**
+📁 **aws-cloud-lab**
+📁 **kubernetes-sre-lab**
+📁 **observability-lab**
+📁 **otel-loki-datadog-lab**
+📁 **sre-platform-project**
+
+Cada projeto documenta conceitos, arquiteturas, automações e boas práticas utilizadas no dia a dia de um profissional SRE.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é atuar como **Site Reliability Engineer (SRE)** ou **Cloud Engineer**, construindo plataformas confiáveis, escaláveis e observáveis.
+
+Busco unir minha experiência em infraestrutura e operações com desenvolvimento de software para:
+
+* Automatizar processos operacionais
+* Melhorar a confiabilidade de sistemas
+* Implementar observabilidade de ponta a ponta
+* Construir plataformas resilientes em nuvem
+* Aplicar práticas modernas de engenharia e DevOps
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/joyce-costa-a35280328
+
+📧 Email: [joyce.alecosta@gmail.com](mailto:joyce.alecosta@gmail.com)
+
+---
+
+> *"Transformando experiência em infraestrutura em plataformas confiáveis, observáveis e escaláveis."* 🚀
+
 
 ## 📫 Contato
 
