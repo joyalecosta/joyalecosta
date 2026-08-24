@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm **Joyce Costa**, an Information Technology professional with experience in **Infrastructure, Observability, Corporate Support, and Windows/Linux Environment Administration**.
+I'm **Joyce Costa**, an IT professional with experience in **Infrastructure, Observability, Corporate Support, and Windows/Linux Environment Administration**.
 
 I'm currently transitioning my career toward **Site Reliability Engineering (SRE), Cloud Computing, and Software Development**, combining my operational background with modern engineering practices to build reliable, scalable, and resilient systems.
 
@@ -37,18 +37,14 @@ I'm currently transitioning my career toward **Site Reliability Engineering (SRE
 
 * AWS
 * Docker
-* Kubernetes
+* Kubernetes *(currently learning)*
 * Terraform *(currently learning)*
 
 ### 📊 Observability
 
 * Datadog
-* Grafana
-* Prometheus
 * Zabbix
-* Dynatrace
-* OpenTelemetry
-* Loki
+* Dynatrace *(currently learning)*
 
 ### 🗄️ Databases
 
@@ -58,7 +54,7 @@ I'm currently transitioning my career toward **Site Reliability Engineering (SRE
 
 ### 🔧 Infrastructure
 
-* Linux (Ubuntu / Debian)
+* Linux
 * Windows Server
 * Active Directory
 * DNS
@@ -85,7 +81,6 @@ I'm currently transitioning my career toward **Site Reliability Engineering (SRE
 * Kubernetes
 * Observability
 * OpenTelemetry
-* Prometheus & Grafana
 * Incident Management
 * SLI, SLO, and SLA
 * Python Automation
@@ -108,17 +103,6 @@ I'm currently transitioning my career toward **Site Reliability Engineering (SRE
 ## 🚀 SRE Learning Projects
 
 I'm currently building hands-on labs and projects focused on **reliability, observability, automation, and cloud platforms**:
-
-📁 **linux-sre-lab**
-📁 **aws-cloud-lab**
-📁 **kubernetes-sre-lab**
-📁 **observability-lab**
-📁 **otel-loki-datadog-lab**
-📁 **sre-platform-project**
-
-Each project documents concepts, architectures, automation workflows, and engineering practices used in real-world SRE environments.
-
----
 
 ## 🎯 Professional Goal
 
