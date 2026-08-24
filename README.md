@@ -1,25 +1,27 @@
-# Hello, World! rs' 
+# Hello, World! 👋
 
-Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência em **Infraestrutura, Observabilidade, Suporte Corporativo e Administração de Ambientes Windows/Linux**. Atualmente estou direcionando minha carreira para **Site Reliability Engineering (SRE), Cloud Computing e Desenvolvimento de Software**, unindo minha experiência operacional com práticas modernas de engenharia para construir sistemas confiáveis, escaláveis e resilientes.
+I'm **Joyce Costa**, an Information Technology professional with experience in **Infrastructure, Observability, Corporate Support, and Windows/Linux Environment Administration**.
+
+I'm currently transitioning my career toward **Site Reliability Engineering (SRE), Cloud Computing, and Software Development**, combining my operational background with modern engineering practices to build reliable, scalable, and resilient systems.
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-- 🎓 Estudante de Ciência da Computação
-- 💼 +7 anos de experiência em Infraestrutura e Suporte Corporativo
-- ⚙️ Foco em Site Reliability Engineering (SRE) e Observabilidade
-- ☁️ Estudando AWS, Kubernetes e Arquiteturas Cloud Native
-- ☕ Desenvolvimento Backend com Java e Spring Boot
-- 🐍 Python para automação e integração de sistemas
-- 📊 Experiência com monitoramento, métricas, logs e troubleshooting
-- 🌱 Aprendizado contínuo em DevOps, Cloud e Engenharia de Software
-  
+* 🎓 Computer Science student
+* 💼 7+ years of experience in Infrastructure and Corporate IT Support
+* ⚙️ Focused on Site Reliability Engineering (SRE) and Observability
+* ☁️ Currently studying AWS, Kubernetes, and Cloud-Native Architectures
+* ☕ Backend Development with Java and Spring Boot
+* 🐍 Python for automation and systems integration
+* 📊 Experience with monitoring, metrics, logs, and troubleshooting
+* 🌱 Continuously learning DevOps, Cloud Computing, and Software Engineering
+
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-### 💻 Linguagens
+### 💻 Languages
 
 * Java
 * Python
@@ -29,16 +31,16 @@ Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência
 ### ⚙️ Backend
 
 * Spring Boot
-* APIs REST
+* REST APIs
 
 ### ☁️ Cloud & DevOps
 
 * AWS
 * Docker
 * Kubernetes
-* Terraform (em aprendizado)
+* Terraform *(currently learning)*
 
-### 📊 Observabilidade
+### 📊 Observability
 
 * Datadog
 * Grafana
@@ -48,13 +50,13 @@ Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência
 * OpenTelemetry
 * Loki
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 
 * MySQL
 * PostgreSQL
 * MariaDB
 
-### 🔧 Infraestrutura
+### 🔧 Infrastructure
 
 * Linux (Ubuntu / Debian)
 * Windows Server
@@ -65,7 +67,7 @@ Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência
 * Microsoft 365
 * Azure
 
-### 🧰 Ferramentas
+### 🧰 Tools
 
 * Git
 * GitHub
@@ -74,38 +76,38 @@ Sou **Joyce Costa**, profissional de Tecnologia da Informação com experiência
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Currently Learning
 
 ### Site Reliability Engineering (SRE)
 
-* Linux Avançado
+* Advanced Linux
 * Cloud Computing (AWS)
 * Kubernetes
-* Observabilidade
+* Observability
 * OpenTelemetry
 * Prometheus & Grafana
-* Gestão de Incidentes
-* SLI, SLO e SLA
-* Automação com Python
+* Incident Management
+* SLI, SLO, and SLA
+* Python Automation
 
-### Desenvolvimento Backend
+### Backend Development
 
 * Java
-* Programação Orientada a Objetos
+* Object-Oriented Programming
 * Spring Boot
-* APIs REST
+* REST APIs
 * SQL
-* Git e GitHub
+* Git & GitHub
 * Docker
 * Clean Code
 * Design Patterns
-* Arquitetura de Software
+* Software Architecture
 
 ---
 
-## 🚀 Projetos de Aprendizado SRE
+## 🚀 SRE Learning Projects
 
-Atualmente desenvolvendo laboratórios e projetos práticos focados em confiabilidade, observabilidade e plataformas cloud:
+I'm currently building hands-on labs and projects focused on **reliability, observability, automation, and cloud platforms**:
 
 📁 **linux-sre-lab**
 📁 **aws-cloud-lab**
@@ -114,28 +116,29 @@ Atualmente desenvolvendo laboratórios e projetos práticos focados em confiabil
 📁 **otel-loki-datadog-lab**
 📁 **sre-platform-project**
 
-Cada projeto documenta conceitos, arquiteturas, automações e boas práticas utilizadas no dia a dia de um profissional SRE.
+Each project documents concepts, architectures, automation workflows, and engineering practices used in real-world SRE environments.
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Professional Goal
 
-Meu objetivo é atuar como **Site Reliability Engineer (SRE)** ou **Cloud Engineer**, construindo plataformas confiáveis, escaláveis e observáveis.
+My goal is to work as a **Site Reliability Engineer (SRE)** or **Cloud Engineer**, designing and operating reliable, scalable, and observable platforms.
 
-Busco unir minha experiência em infraestrutura e operações com desenvolvimento de software para:
+I aim to combine my infrastructure and operations experience with software development to:
 
-* Automatizar processos operacionais
-* Melhorar a confiabilidade de sistemas
-* Implementar observabilidade de ponta a ponta
-* Construir plataformas resilientes em nuvem
-* Aplicar práticas modernas de engenharia e DevOps
+* Automate operational processes
+* Improve system reliability
+* Implement end-to-end observability
+* Build resilient cloud-native platforms
+* Apply modern engineering and DevOps practices
+* Develop scalable and maintainable software solutions
 
 ---
 
-## 📫 Contato
+## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/joyce-costa-a35280328
 
 📧 Email: [joyce.alecosta@gmail.com](mailto:joyce.alecosta@gmail.com)
 
-> *"Transformando experiência em infraestrutura em soluções de software eficientes."* 🚀
+> *"Turning infrastructure experience into efficient software solutions."* 🚀
