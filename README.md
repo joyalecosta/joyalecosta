@@ -15,6 +15,6 @@ Building reliable, scalable, observable, and resilient systems while combining m
 
 💼 LinkedIn: https://www.linkedin.com/in/joyce-costa-a35280328
 
-📧 Email: [joyce.alecosta@gmail.com](mailto:joyce.alecosta@gmail.com)
+📧 Email: [joyce.alecosta@gmail.com](mailto:joyce.alecosta@outlook.com)
 
 > *"Turning infrastructure experience into efficient software solutions."* 🚀
