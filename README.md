@@ -11,8 +11,6 @@ Currently focused on **SRE, Cloud Engineering, AWS, Observability, and Backend D
 
 Building reliable, scalable, observable, and resilient systems while combining my **infrastructure background with software engineering**.
 
-> *Turning infrastructure experience into reliable engineering solutions.* ☁️🚀
-
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/joyce-costa-a35280328
